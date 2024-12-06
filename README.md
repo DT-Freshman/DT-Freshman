@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and R for data analysis and visualization.
 - 💞️ I’m looking to collaborate on open-source projects related to machine learning and data processing.
 - 📫 How to reach me: You can email me at dt.freshman@example.com.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He
 - ⚡ Fun fact: I love hiking and have climbed several mountains in my area!
 
 <!---
